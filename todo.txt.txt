@@ -1,0 +1,7 @@
+syntax hi,
+auto-complete / smart suggest,
+selection,
+file manager,
+file changes,
+git,
+multiple tabs/files open
